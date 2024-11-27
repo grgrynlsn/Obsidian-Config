@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "CaretStopBlinking",
+    "DisableWordWrap",
+    "tableStyles"
+  ],
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "showViewHeader": false,
+  "baseFontSize": 25,
+  "interfaceFontFamily": "InconsolataGo Nerd Font Mono",
+  "textFontFamily": "InconsolataGo Nerd Font Mono",
+  "monospaceFontFamily": "InconsolataGo Nerd Font Mono"
+}

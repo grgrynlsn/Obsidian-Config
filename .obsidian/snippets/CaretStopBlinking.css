@@ -1,0 +1,5 @@
+.cm-cursorLayer {animation: none !important;}
+
+.CodeMirror-focused .CodeMirror-cursors {
+	visibility: visible !important;
+}

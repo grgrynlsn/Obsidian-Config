@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "2a4054801297951a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2db4d7d88a9c5873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b836f8208026b1ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBDA2022/IBDA2022_N.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "IBDA2022_N"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96a4c0a6e9224efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1082f8c464283541",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a1ace5b13c82d27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "96c1131122b1274a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2c34f9842ef96067",
+    "type": "split",
+    "children": [
+      {
+        "id": "9352222f86e71c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7001b8baf1545cba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IBDA2022/IBDA2022_N.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IBDA2022_N"
+            }
+          },
+          {
+            "id": "3ab8edb65c68ce71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IBDA2022/IBDA2022_N.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for IBDA2022_N"
+            }
+          },
+          {
+            "id": "fd91d3892e44e60c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d1e6beb4d49994c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IBDA2022/IBDA2022_N.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of IBDA2022_N"
+            }
+          },
+          {
+            "id": "2ad64991f1606dba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9a1ace5b13c82d27",
+  "lastOpenFiles": [
+    "IBDA2032/IBDA2032_N.md",
+    "IBDA2012/IBDA2012_N.md",
+    "IBDA2022/IBDA2022_N.md",
+    "Untitled.md",
+    "IBDA2032/~syncthing~IBDA2032_N.md.tmp",
+    "IBDA2032/Media/Pasted image 20240516175934.png",
+    "IBDA2032/Media/Pasted image 20240516175749.png",
+    "IBDA2032/Media/Pasted image 20240516174614.png",
+    "IBDA2032/Media/Pasted image 20240516174526.png",
+    "IBDA2032/Media/Pasted image 20240516174349.png",
+    "IBDA2032/Media/Pasted image 20240516174332.png",
+    "IBDA2032/Media/Pasted image 20240516171405.png",
+    "IBDA2032/Media/Pasted image 20240516171047.png",
+    "IBDA2032/Media/Pasted image 20240516170932.png",
+    "IBDA2032/Media/Pasted image 20240515165610.png",
+    "IBDA2032/Media/~syncthing~Pasted image 20240430083940.png.tmp",
+    "IBDA2032/Media/~syncthing~Pasted image 20240430085444.png.tmp",
+    "IBDA2032/Media/~syncthing~Pasted image 20240430085532.png.tmp",
+    "IBDA2032/Media/~syncthing~Pasted image 20240429125421.png.tmp",
+    "IBDA2032/Media/~syncthing~Pasted image 20240429133416.png.tmp",
+    "IBDA2032/Media/~syncthing~Pasted image 20240430084728.png.tmp",
+    "IBDA2032/Media/~syncthing~Pasted image 20240429084920.png.tmp",
+    "IBDA2032/Media/~syncthing~Pasted image 20240429084339.png.tmp",
+    "IBDA2032/Media/~syncthing~Pasted image 20240429125057.png.tmp",
+    "JPN_N.md",
+    "IBDA2032/IBDA2032_N_Annotation.md",
+    "Templates/CodeBlock.md",
+    "IBDA2032/Test.md",
+    "Excalidraw/Drawing 2024-04-21 09.18.06.excalidraw.md",
+    "IBDA2032/IBDA2032_N - Copy.md",
+    "Excalidraw/Drawing 2024-04-04 09.08.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-02 19.43.37.excalidraw.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2024-04-02 06.44.50.excalidraw.md",
+    "LKJ.md",
+    "as.md",
+    "asdlkfj.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "Excalidraw/Drawing 2024-04-01 17.08.08.excalidraw.md",
+    "t.md",
+    "alskdfj.md",
+    "Excalidraw/Drawing 2024-04-01 16.28.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-01 16.27.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-01 16.27.31.excalidraw.md"
+  ]
+}

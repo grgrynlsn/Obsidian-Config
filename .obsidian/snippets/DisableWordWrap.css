@@ -1,0 +1,27 @@
+
+code, pre {
+	word-wrap: break-word;
+	white-space: pre;
+	overflow-x: auto;
+	font-size: 0.95em;
+	line-height: 1.5;
+}
+
+.markdown-preview-view code,
+.cm-s-obsidian .HyperMD-codeblock,
+.cm-s-obsidian span.cm-inline-code {
+	color: var(--color-monospace);
+	-webkit-font-smoothing: auto;
+	font-size: 0.95em;
+}
+
+
+/* Line wrap*/                                                                           
+.cm-line {                                                                      
+    white-space: pre;                                                           
+}                                                                               
+                                                                                
+/* code block only - scrollbar. Editing & Reading */                            
+.HyperMD-codeblock, .markdown-preview-view pre code {                           
+    white-space: pre;                                                           
+}
