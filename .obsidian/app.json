@@ -8,7 +8,7 @@
   "legacyEditor": false,
   "autoPairMarkdown": true,
   "readableLineLength": false,
-  "promptDelete": false,
+  "promptDelete": true,
   "showLineNumber": true,
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
@@ -23,5 +23,6 @@
   "attachmentFolderPath": "./Media",
   "showUnsupportedFiles": true,
   "defaultViewMode": "source",
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showRibbon": false
 }

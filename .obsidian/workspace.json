@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "2db4d7d88a9c5873",
+        "id": "adf470e8b843c367",
         "type": "tabs",
         "children": [
           {
-            "id": "b836f8208026b1ac",
+            "id": "fced9748cb3ae53d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IBDA2022/IBDA2022_N.md",
+                "file": "Task.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "IBDA2022_N"
+              "title": "Task"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f05b8073fe48063d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfca2b7d2283768b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task Details.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Task Details"
             }
           }
         ]
@@ -32,11 +53,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1082f8c464283541",
+        "id": "79e76a99dae94555",
         "type": "tabs",
         "children": [
           {
-            "id": "9a1ace5b13c82d27",
+            "id": "4aeb7c1bcb9a6c88",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,23 +66,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "96c1131122b1274a",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           }
         ]
@@ -149,9 +153,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "fc8150eea8b4d38c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -166,16 +180,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a1ace5b13c82d27",
+  "active": "dfca2b7d2283768b",
   "lastOpenFiles": [
+    "Task Principle.md",
+    "Task Details.md",
+    "Task.md",
+    "2025-01-10.md",
+    "Untitled.canvas",
+    "Templates/CodeBlock.md",
     "IBDA2032/IBDA2032_N.md",
     "IBDA2012/IBDA2012_N.md",
     "IBDA2022/IBDA2022_N.md",
-    "Untitled.md",
     "IBDA2032/~syncthing~IBDA2032_N.md.tmp",
     "IBDA2032/Media/Pasted image 20240516175934.png",
     "IBDA2032/Media/Pasted image 20240516175749.png",
@@ -198,13 +216,11 @@
     "IBDA2032/Media/~syncthing~Pasted image 20240429125057.png.tmp",
     "JPN_N.md",
     "IBDA2032/IBDA2032_N_Annotation.md",
-    "Templates/CodeBlock.md",
     "IBDA2032/Test.md",
     "Excalidraw/Drawing 2024-04-21 09.18.06.excalidraw.md",
     "IBDA2032/IBDA2032_N - Copy.md",
     "Excalidraw/Drawing 2024-04-04 09.08.53.excalidraw.md",
     "Excalidraw/Drawing 2024-04-02 19.43.37.excalidraw.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 1.md",
     "Excalidraw/Drawing 2024-04-02 06.44.50.excalidraw.md",
@@ -216,9 +232,6 @@
     "Untitled 2.md",
     "Excalidraw/Drawing 2024-04-01 17.08.08.excalidraw.md",
     "t.md",
-    "alskdfj.md",
-    "Excalidraw/Drawing 2024-04-01 16.28.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-01 16.27.25.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-01 16.27.31.excalidraw.md"
+    "alskdfj.md"
   ]
 }

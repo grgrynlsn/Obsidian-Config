@@ -309,7 +309,7 @@
         "Alt",
         "Shift"
       ],
-      "key": "H"
+      "key": "ArrowLeft"
     }
   ],
   "table-editor-obsidian:move-column-right": [
@@ -318,33 +318,7 @@
         "Alt",
         "Shift"
       ],
-      "key": "L"
-    }
-  ],
-  "table-editor-obsidian:move-row-down": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "J"
-    }
-  ],
-  "table-editor-obsidian:move-row-up": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "K"
-    }
-  ],
-  "table-editor-obsidian:next-row": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Enter"
+      "key": "ArrowRight"
     }
   ],
   "table-editor-obsidian:insert-column": [
@@ -379,5 +353,8 @@
       ],
       "key": "Tab"
     }
-  ]
+  ],
+  "graph:open": [],
+  "editor:open-link-in-new-window": [],
+  "editor:open-link-in-new-split": []
 }
